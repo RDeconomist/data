@@ -341,85 +341,28 @@ Year,Series,Income,View
 1969,All Races,54962,by Race
 1968,All Races,52992,by Race
 1967,All Races,50803,by Race
-2021,White Alone,74262,by Race
-2020,White Alone,74978,by Race
-2019,White Alone,76519,by Race
-2018,White Alone,72229,by Race
-2017,White Alone,71658,by Race
-2017,White Alone,72144,by Race
-2016,White Alone,69840,by Race
-2015,White Alone,68740,by Race
-2014,White Alone,65144,by Race
-2013,White Alone,66106,by Race
-2013,White Alone,64372,by Race
-2012,White Alone,63492,by Race
-2011,White Alone,63036,by Race
-2010,White Alone,64394,by Race
-2009,White Alone,65649,by Race
-2008,White Alone,65990,by Race
-2007,White Alone,68266,by Race
-2006,White Alone,68260,by Race
-2005,White Alone,67525,by Race
-2004,White Alone,67087,by Race
-2003,White Alone,67383,by Race
-2002,White Alone,68090,by Race
-2001,White,68290,by Race
-2000,White,69286,by Race
-1999,White,69042,by Race
-1998,White,68158,by Race
-1997,White,65805,by Race
-1996,White,64104,by Race
-1995,White,63341,by Race
-1994,White,61714,by Race
-1993,White,61026,by Race
-1992,White,61139,by Race
-1991,White,61414,by Race
-1990,White,62967,by Race
-1989,White,64327,by Race
-1988,White,63551,by Race
-1987,White,62820,by Race
-1986,White,61944,by Race
-1985,White,59978,by Race
-1984,White,58896,by Race
-1983,White,56820,by Race
-1982,White,57123,by Race
-1981,White,57808,by Race
-1980,White,58654,by Race
-1979,White,60248,by Race
-1978,White,59850,by Race
-1977,White,58286,by Race
-1976,White,57697,by Race
-1975,White,56659,by Race
-1974,White,58185,by Race
-1973,White,60216,by Race
-1972,White,59083,by Race
-1971,White,56488,by Race
-1970,White,56803,by Race
-1969,White,57360,by Race
-1968,White,55176,by Race
-1967,White,52980,by Race
-2021,"White Alone, Not Hispanic",77999,by Race
-2020,"White Alone, Not Hispanic",78912,by Race
-2019,"White Alone, Not Hispanic",80602,by Race
-2018,"White Alone, Not Hispanic",76220,by Race
-2017,"White Alone, Not Hispanic",75367,by Race
-2017,"White Alone, Not Hispanic",75318,by Race
-2016,"White Alone, Not Hispanic",73433,by Race
-2015,"White Alone, Not Hispanic",71989,by Race
-2014,"White Alone, Not Hispanic",69027,by Race
-2013,"White Alone, Not Hispanic",70281,by Race
-2013,"White Alone, Not Hispanic",67882,by Race
-2012,"White Alone, Not Hispanic",67397,by Race
-2011,"White Alone, Not Hispanic",66897,by Race
-2010,"White Alone, Not Hispanic",67820,by Race
-2009,"White Alone, Not Hispanic",68940,by Race
-2008,"White Alone, Not Hispanic",70049,by Race
-2007,"White Alone, Not Hispanic",71941,by Race
-2006,"White Alone, Not Hispanic",70617,by Race
-2005,"White Alone, Not Hispanic",70627,by Race
-2004,"White Alone, Not Hispanic",70325,by Race
-2003,"White Alone, Not Hispanic",70552,by Race
-2002,"White Alone, Not Hispanic",70829,by Race
+2021,"White, Not Hispanic",77999,by Race
+2020,"White, Not Hispanic",78912,by Race
+2019,"White, Not Hispanic",80602,by Race
+2018,"White, Not Hispanic",76220,by Race
+2017,"White, Not Hispanic",75367,by Race
+2017,"White, Not Hispanic",75318,by Race
+2016,"White, Not Hispanic",73433,by Race
+2015,"White, Not Hispanic",71989,by Race
+2014,"White, Not Hispanic",69027,by Race
+2013,"White, Not Hispanic",70281,by Race
+2013,"White, Not Hispanic",67882,by Race
+2012,"White, Not Hispanic",67397,by Race
+2011,"White, Not Hispanic",66897,by Race
+2010,"White, Not Hispanic",67820,by Race
+2009,"White, Not Hispanic",68940,by Race
+2008,"White, Not Hispanic",70049,by Race
+2007,"White, Not Hispanic",71941,by Race
+2006,"White, Not Hispanic",70617,by Race
+2005,"White, Not Hispanic",70627,by Race
+2004,"White, Not Hispanic",70325,by Race
+2003,"White, Not Hispanic",70552,by Race
+2002,"White, Not Hispanic",70829,by Race
 2001,"White, Not Hispanic",71033,by Race
 2000,"White, Not Hispanic",71979,by Race
 1999,"White, Not Hispanic",72030,by Race
@@ -449,109 +392,100 @@ Year,Series,Income,View
 1974,"White, Not Hispanic",58682,by Race
 1973,"White, Not Hispanic",60746,by Race
 1972,"White, Not Hispanic",59926,by Race
-2021,Black Alone or in Combination,48815,by Race
-2020,Black Alone or in Combination,48936,by Race
-2019,Black Alone or in Combination,48827,by Race
-2018,Black Alone or in Combination,44984,by Race
-2017,Black Alone or in Combination,44197,by Race
-2017,Black Alone or in Combination,44867,by Race
-2016,Black Alone or in Combination,45235,by Race
-2015,Black Alone or in Combination,42554,by Race
-2014,Black Alone or in Combination,40843,by Race
-2013,Black Alone or in Combination,41664,by Race
-2013,Black Alone or in Combination,40512,by Race
-2012,Black Alone or in Combination,39862,by Race
-2011,Black Alone or in Combination,39074,by Race
-2010,Black Alone or in Combination,40044,by Race
-2009,Black Alone or in Combination,41457,by Race
-2008,Black Alone or in Combination,43325,by Race
-2007,Black Alone or in Combination,44656,by Race
-2006,Black Alone or in Combination,43284,by Race
-2005,Black Alone or in Combination,43049,by Race
-2004,Black Alone or in Combination,43473,by Race
-2003,Black Alone or in Combination,43841,by Race
-2002,Black Alone or in Combination,44064,by Race
-2021,Black Alone,48297,by Race
-2020,Black Alone,48175,by Race
-2019,Black Alone,48153,by Race
-2018,Black Alone,44627,by Race
-2017,Black Alone,43509,by Race
-2017,Black Alone,44496,by Race
-2016,Black Alone,44585,by Race
-2015,Black Alone,42196,by Race
-2014,Black Alone,40551,by Race
-2013,Black Alone,41151,by Race
-2013,Black Alone,40305,by Race
-2012,Black Alone,39393,by Race
-2011,Black Alone,38909,by Race
-2010,Black Alone,40005,by Race
-2009,Black Alone,41247,by Race
-2008,Black Alone,43165,by Race
-2007,Black Alone,44427,by Race
-2006,Black Alone,43064,by Race
-2005,Black Alone,42915,by Race
-2004,Black Alone,43272,by Race
-2003,Black Alone,43776,by Race
-2002,Black Alone,43836,by Race
-2021,Asian Alone or in Combination,101056,by Race
-2020,Asian Alone or in Combination,99411,by Race
-2019,Asian Alone or in Combination,102956,by Race
-2018,Asian Alone or in Combination,93670,by Race
-2017,Asian Alone or in Combination,89534,by Race
-2017,Asian Alone or in Combination,89483,by Race
-2016,Asian Alone or in Combination,91251,by Race
-2015,Asian Alone or in Combination,87783,by Race
-2014,Asian Alone or in Combination,85721,by Race
-2013,Asian Alone or in Combination,84427,by Race
-2013,Asian Alone or in Combination,78479,by Race
-2012,Asian Alone or in Combination,80606,by Race
-2011,Asian Alone or in Combination,78466,by Race
-2010,Asian Alone or in Combination,79111,by Race
-2009,Asian Alone or in Combination,82373,by Race
-2008,Asian Alone or in Combination,82710,by Race
-2007,Asian Alone or in Combination,86292,by Race
-2006,Asian Alone or in Combination,86077,by Race
-2005,Asian Alone or in Combination,84901,by Race
-2004,Asian Alone or in Combination,82602,by Race
-2003,Asian Alone or in Combination,81605,by Race
-2002,Asian Alone or in Combination,78962,by Race
-2021,Asian Alone,101418,by Race
-2020,Asian Alone,99622,by Race
-2019,Asian Alone,104041,by Race
-2018,Asian Alone,94079,by Race
-2017,Asian Alone,89960,by Race
-2017,Asian Alone,89892,by Race
-2016,Asian Alone,91938,by Race
-2015,Asian Alone,88247,by Race
-2014,Asian Alone,85112,by Race
-2013,Asian Alone,84324,by Race
-2013,Asian Alone,78128,by Race
-2012,Asian Alone,81143,by Race
-2011,Asian Alone,78628,by Race
-2010,Asian Alone,80023,by Race
-2009,Asian Alone,82875,by Race
-2008,Asian Alone,82798,by Race
-2007,Asian Alone,86589,by Race
-2006,Asian Alone,86533,by Race
-2005,Asian Alone,84965,by Race
-2004,Asian Alone,82681,by Race
-2003,Asian Alone,82250,by Race
-2002,Asian Alone,79477,by Race
-2001,Asian and Pacific Islander,82277,by Race
-2000,Asian and Pacific Islander,87968,by Race
-1999,Asian and Pacific Islander,83128,by Race
-1998,Asian and Pacific Islander,77696,by Race
-1997,Asian and Pacific Islander,76404,by Race
-1996,Asian and Pacific Islander,74653,by Race
-1995,Asian and Pacific Islander,71926,by Race
-1994,Asian and Pacific Islander,73420,by Race
-1993,Asian and Pacific Islander,71000,by Race
-1992,Asian and Pacific Islander,71754,by Race
-1991,Asian and Pacific Islander,70908,by Race
-1990,Asian and Pacific Islander,77522,by Race
-1989,Asian and Pacific Islander,76377,by Race
-1988,Asian and Pacific Islander,71248,by Race
-1987,Asian and Pacific Islander,73728,by Race
+2021,Black,48297,by Race
+2020,Black,48175,by Race
+2019,Black,48153,by Race
+2018,Black,44627,by Race
+2017,Black,43509,by Race
+2017,Black,44496,by Race
+2016,Black,44585,by Race
+2015,Black,42196,by Race
+2014,Black,40551,by Race
+2013,Black,41151,by Race
+2013,Black,40305,by Race
+2012,Black,39393,by Race
+2011,Black,38909,by Race
+2010,Black,40005,by Race
+2009,Black,41247,by Race
+2008,Black,43165,by Race
+2007,Black,44427,by Race
+2006,Black,43064,by Race
+2005,Black,42915,by Race
+2004,Black,43272,by Race
+2003,Black,43776,by Race
+2002,Black,43836,by Race
+2001,Black,45208,by Race
+2000,Black,46806,by Race
+1999,Black,45528,by Race
+1998,Black,42234,by Race
+1997,Black,42298,by Race
+1996,Black,40507,by Race
+1995,Black,39657,by Race
+1994,Black,38135,by Race
+1993,Black,36166,by Race
+1992,Black,35601,by Race
+1991,Black,36587,by Race
+1990,Black,37654,by Race
+1989,Black,38256,by Race
+1988,Black,36228,by Race
+1987,Black,35855,by Race
+1986,Black,35688,by Race
+1985,Black,35684,by Race
+1984,Black,33551,by Race
+1983,Black,32244,by Race
+1982,Black,32374,by Race
+1981,Black,32439,by Race
+1980,Black,33791,by Race
+1979,Black,35372,by Race
+1978,Black,35967,by Race
+1977,Black,34395,by Race
+1976,Black,34308,by Race
+1975,Black,34014,by Race
+1974,Black,34603,by Race
+1973,Black,35445,by Race
+1972,Black,34487,by Race
+1971,Black,33368,by Race
+1970,Black,34574,by Race
+1969,Black,34672,by Race
+1968,Black,32536,by Race
+1967,Black,30761,by Race
+2021,Asian,101418,by Race
+2020,Asian,99622,by Race
+2019,Asian,104041,by Race
+2018,Asian,94079,by Race
+2017,Asian,89960,by Race
+2017,Asian,89892,by Race
+2016,Asian,91938,by Race
+2015,Asian,88247,by Race
+2014,Asian,85112,by Race
+2013,Asian,84324,by Race
+2013,Asian,78128,by Race
+2012,Asian,81143,by Race
+2011,Asian,78628,by Race
+2010,Asian,80023,by Race
+2009,Asian,82875,by Race
+2008,Asian,82798,by Race
+2007,Asian,86589,by Race
+2006,Asian,86533,by Race
+2005,Asian,84965,by Race
+2004,Asian,82681,by Race
+2003,Asian,82250,by Race
+2002,Asian,79477,by Race
+2001,Asian,82277,by Race
+2000,Asian,87968,by Race
+1999,Asian,83128,by Race
+1998,Asian,77696,by Race
+1997,Asian,76404,by Race
+1996,Asian,74653,by Race
+1995,Asian,71926,by Race
+1994,Asian,73420,by Race
+1993,Asian,71000,by Race
+1992,Asian,71754,by Race
+1991,Asian,70908,by Race
+1990,Asian,77522,by Race
+1989,Asian,76377,by Race
+1988,Asian,71248,by Race
+1987,Asian,73728,by Race
 2021,Hispanic (any race),57981,by Race
 2020,Hispanic (any race),58015,by Race
 2019,Hispanic (any race),59467,by Race
