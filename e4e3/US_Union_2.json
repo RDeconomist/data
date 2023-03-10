@@ -1,0 +1,59 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/RDeconomist/data/main/e4e3/US%20UM%20Final%20CSV%202.csv"
+    },
+    "title": {
+      "text": "Union Membership (%)",
+      "anchor": "start",
+      "subtitle":
+      [
+      "United States, 1994-2022",
+      "Source: BLS"
+    ],
+    },
+    "width": 300,
+    "height": 300,
+    "params": [
+      {"name": "Selector",
+        "select": {"type": "point", "fields": ["Selector2"]},
+        "bind": {"input": "select", "options": ["Overall", "Gender", "Ethnicity", "Type"], "name": "Demographic:"},
+        "value": "Overall"},
+      
+      {"name": "hover",
+      "select": {
+      "type": "point",
+      "fields": ["Selector1"],
+      "toggle": true,
+      "on": "mouseover"}
+      }
+    ],
+    
+    "transform": [{"filter": {"param": "Selector"}}],
+    "mark": {"type": "line", "point": false},
+    "encoding": {
+      "x": {"field": "Year", "axis": {"tickMinStep": 10, "grid": false, "ticks": true}, "type": "temporal"},
+      "y": {
+        "field": "Union_Membership",
+        "type": "quantitative",
+        "axis": {"format": "", "grid": false, "ticks": true},
+        "title": "Union Membership (%)"
+        
+      },
+      "color": {
+        "field": "Selector1",
+        "scale": {
+          "range": ["#a12800", "#8854f2", "#121321", "#e28a00"]
+        },
+        
+        "legend": {"title":""}
+      },
+      
+      "opacity": {"condition": {"test": {"param": "hover"}, "value": 1}, "value": 0.1},
+      
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "format": "%Y"},
+        {"field": "Union_Membership", "type": "quantitative", "title": "Union Membership (%)"}
+        ]
+    }
+  }
