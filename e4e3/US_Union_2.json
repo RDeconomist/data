@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/RDeconomist/data/main/e4e3/US%20UM%20Final%20CSV%202.csv"
+      "url": "https://raw.githubusercontent.com/RDeconomist/data/main/e4e3/US%20UM%20Final%20CSV%203.csv"
     },
     "title": {
       "text": "Union Membership (%)",
