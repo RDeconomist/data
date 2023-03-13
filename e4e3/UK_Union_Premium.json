@@ -17,7 +17,7 @@
     "params": [
       {"name": "Selector",
         "select": {"type": "point", "fields": ["Selector1"]},
-        "bind": {"input": "select", "options": ["Overall", "Gender"], "name": "Demographic:"},
+        "bind": {"input": "select", "options": [null, "Overall", "Gender"], "name": "Demographic:"},
         "value": null},
       
       {"name": "hover",
