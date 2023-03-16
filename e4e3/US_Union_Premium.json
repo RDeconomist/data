@@ -1,0 +1,59 @@
+{
+    "$schema": https://vega.github.io/schema/vega-lite/v5.json,
+    "data": {
+      "url": https://raw.githubusercontent.com/RDeconomist/data/main/e4e3/US%20union%20premium%20CSV.csv
+    },
+    "title": {
+      "text": "Union Membership Premium",
+      "anchor": "start",
+      "subtitle":
+      [
+      "United States, 1994-2022",
+      "Source: BLS"
+    ],
+    },
+    "width": 300,
+    "height": 300,
+    "params": [
+      {"name": "Selector",
+        "select": {"type": "point", "fields": ["Selector1"]},
+        "bind": {"input": "select", "options": [null, "Overall", "Gender", "Ethnicity"], "name": "Demographic:"},
+        "value": null},
+     
+      {"name": "hover",
+      "select": {
+      "type": "point",
+      "fields": ["Selector1"],
+      "toggle": true,
+      "on": "mouseover"}
+      }
+    ],
+   
+    "transform": [{"filter": {"param": "Selector"}}],
+    "mark": {"type": "line", "point": false},
+    "encoding": {
+      "x": {"field": "Year", "axis": {"tickMinStep": 10, "grid": false, "ticks": true}, "type": "temporal"},
+      "y": {
+        "field": "Weeklywage",
+        "type": "quantitative",
+        "axis": {"type": "quantitative", "grid": false, "ticks": true},
+        "title": "Weekly Wage ($)"
+       
+      },
+      "color": {
+        "field": "Selector2",
+        "scale": {
+          "range": ["#a12800", "#9854f2", "#121321", "#e28a00", "#e22b77", "#3154a2", "#CD5C5C", "#000000", "#EFA07A", "#b28971", "#c89741", "#e23232", "#ff21251", "#bb37d2"]
+        },
+       
+        "legend": {"title":""}
+      },
+     
+      "opacity": {"condition": {"test": {"param": "hover"}, "value": 1}, "value": 0.1},
+     
+      "tooltip": [
+        {"field": "Year", "type": "temporal", "format": "%Y"},
+        {"field": "Weeklywage", "type": "quantitative", "title": "Weekly Wage ($)"}
+        ]
+    }
+  }
