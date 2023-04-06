@@ -1,0 +1,21 @@
+﻿Education,Gender,Measure,Earnings
+Less Than High School,Men,Gross,1.13
+High School Graduate,Men,Gross,1.54
+Some College,Men,Gross,1.76
+Bachelor's Degree,Men,Gross,2.43
+Graduate Degree,Men,Gross,3.05
+Less Than High School,Women,Gross,0.51
+High School Graduate,Women,Gross,0.8
+Some College,Women,Gross,1.01
+Bachelor's Degree,Women,Gross,1.43
+Graduate Degree,Women,Gross,1.86
+Less Than High School,Men,Net (with Controls),1.18
+High School Graduate,Men,Net (with Controls),1.53
+Some College,Men,Net (with Controls),1.76
+Bachelor's Degree,Men,Net (with Controls),2.19
+Graduate Degree,Men,Net (with Controls),2.68
+Less Than High School,Women,Net (with Controls),0.59
+High School Graduate,Women,Net (with Controls),0.87
+Some College,Women,Net (with Controls),1.04
+Bachelor's Degree,Women,Net (with Controls),1.32
+Graduate Degree,Women,Net (with Controls),1.69
