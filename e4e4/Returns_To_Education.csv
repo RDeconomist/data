@@ -1,21 +1,21 @@
-﻿Education Level,Education,Gender,Measure,Earnings
-0,Less Than High School,Men,Unadjusted,1.13
-1,High School Graduate,Men,Unadjusted,1.54
-2,Some College,Men,Unadjusted,1.76
-3,Bachelor's Degree,Men,Unadjusted,2.43
-4,Graduate Degree,Men,Unadjusted,3.05
-0,Less Than High School,Women,Unadjusted,0.51
-1,High School Graduate,Women,Unadjusted,0.8
-2,Some College,Women,Unadjusted,1.01
-3,Bachelor's Degree,Women,Unadjusted,1.43
-4,Graduate Degree,Women,Unadjusted,1.86
-0,Less Than High School,Men,Net (with Controls),1.18
-1,High School Graduate,Men,Net (with Controls),1.53
-2,Some College,Men,Net (with Controls),1.76
-3,Bachelor's Degree,Men,Net (with Controls),2.19
-4,Graduate Degree,Men,Net (with Controls),2.68
-0,Less Than High School,Women,Net (with Controls),0.59
-1,High School Graduate,Women,Net (with Controls),0.87
-2,Some College,Women,Net (with Controls),1.04
-3,Bachelor's Degree,Women,Net (with Controls),1.32
-4,Graduate Degree,Women,Net (with Controls),1.69
+﻿Education Level,Education (new),Education,Gender,Measure,Earnings
+0,a. Less Than High School,Less Than High School,Men,Unadjusted,1.13
+1,b. High School Graduate,High School Graduate,Men,Unadjusted,1.54
+2,c. Some College,Some College,Men,Unadjusted,1.76
+3,d. Bachelor's Degree,Bachelor's Degree,Men,Unadjusted,2.43
+4,e. Graduate Degree,Graduate Degree,Men,Unadjusted,3.05
+0,a. Less Than High School,Less Than High School,Women,Unadjusted,0.51
+1,b. High School Graduate,High School Graduate,Women,Unadjusted,0.8
+2,c. Some College,Some College,Women,Unadjusted,1.01
+3,d. Bachelor's Degree,Bachelor's Degree,Women,Unadjusted,1.43
+4,e. Graduate Degree,Graduate Degree,Women,Unadjusted,1.86
+0,a. Less Than High School,Less Than High School,Men,Net (with Controls),1.18
+1,b. High School Graduate,High School Graduate,Men,Net (with Controls),1.53
+2,c. Some College,Some College,Men,Net (with Controls),1.76
+3,d. Bachelor's Degree,Bachelor's Degree,Men,Net (with Controls),2.19
+4,e. Graduate Degree,Graduate Degree,Men,Net (with Controls),2.68
+0,a. Less Than High School,Less Than High School,Women,Net (with Controls),0.59
+1,b. High School Graduate,High School Graduate,Women,Net (with Controls),0.87
+2,c. Some College,Some College,Women,Net (with Controls),1.04
+3,d. Bachelor's Degree,Bachelor's Degree,Women,Net (with Controls),1.32
+4,e. Graduate Degree,Graduate Degree,Women,Net (with Controls),1.69
