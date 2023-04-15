@@ -1,93 +1,277 @@
-Country,Total,Short-Term,Long-Term,EU,Ranking_1,Ranking_2
-European Union,1487685.0,1276344.0,211341.0,,1,1
-Japan,1104387.0,1031430.0,72957.0,,2,2
-China (Mainland),859352.0,855041.0,4311.0,,3,3
-United Kingdom,668298.0,565124.0,103174.0,,4,4
-Belgium,331059.0,280233.0,50826.0,Yes,7,6
-Luxembourg,318175.0,254675.0,63500.0,Yes,8,6
-Switzerland,290459.0,236108.0,54351.0,,9,7
-Cayman Islands,285314.0,159363.0,125951.0,,10,8
-Canada,254092.0,228535.0,25557.0,,11,9
-Ireland,253410.0,195955.0,57455.0,Yes,12,9
-Taiwan,234643.0,226907.0,7736.0,,13,10
-India,232039.0,228811.0,3228.0,Yes,14,10
-Hong Kong,226848.0,188562.0,38286.0,,15,11
-Brazil,213976.0,212138.0,1838.0,,16,12
-Singapore,187640.0,174813.0,12827.0,,17,13
-France,183873.0,169553.0,14320.0,Yes,18,13
-Saudi Arabia,111016.0,102050.0,8966.0,,19,14
-South Korea,105791.0,94769.0,11022.0,,20,15
-Norway,104440.0,104342.0,98.0,,21,16
-Germany,91337.0,81379.0,9958.0,Yes,22,16
-Bermuda,77397.0,42167.0,35230.0,,23,17
-Netherlands,73670.0,72172.0,1499.0,Yes,24,17
-Total Other,68063.0,55100.0,12963.0,,25,18
-United Arab Emirates,64875.0,43314.0,21561.0,,26,19
-Australia,62190.0,50052.0,12138.0,,27,20
-Mexico,58164.0,46563.0,11601.0,,28,21
-Thailand,52753.0,28886.0,23867.0,,29,22
-Philippines,48752.0,46462.0,2290.0,,30,23
-Total Africa,47940.0,37191.0,10749.0,,31,24
-Israel,46134.0,42225.0,3909.0,,32,25
-British Virgin Islands,44444.0,29853.0,14591.0,,33,26
-Kuwait,43282.0,36154.0,7128.0,,34,27
-Iraq,41177.0,27784.0,13393.0,,35,28
-Spain,40313.0,38801.0,1513.0,Yes,36,28
-Italy,40230.0,38582.0,1649.0,Yes,37,28
-Colombia,39530.0,37632.0,1898.0,,38,29
-Sweden,39450.0,38773.0,677.0,Yes,39,29
-Bahamas,38142.0,4691.0,33451.0,,40,30
-International,37890.0,33200.0,4690.0,,41,31
-Chile,34178.0,31626.0,2552.0,,42,32
-Peru,31810.0,31519.0,291.0,,43,33
-Uruguay,15836.0,5099.0,10737.0,,44,34
-South Africa,15127.0,11585.0,3542.0,,45,35
-Total Regional Orgs.,15073.0,13253.0,1820.0,,46,36
-Kazakhstan,13061.0,2688.0,10373.0,,47,37
-Denmark,12987.0,11583.0,1404.0,,48,38
-Indonesia,12913.0,11491.0,1422.0,,49,39
-Guatemala,8806.0,8326.0,480.0,,50,40
-Malaysia,8762.0,8600.0,162.0,,51,41
-Panama,7977.0,2862.0,5115.0,,52,42
-Oman,7061.0,6567.0,494.0,,53,43
-Argentina,6854.0,1763.0,5091.0,,54,44
-Finland,6460.0,6108.0,352.0,,55,45
-Paraguay,6234.0,6170.0,64.0,,56,46
-Portugal,5633.0,5433.0,200.0,,57,47
-Austria,5367.0,4175.0,1192.0,,58,48
-New Zealand,4530.0,4158.0,372.0,,59,49
-Morocco,3931.0,3864.0,67.0,,60,50
-Dominican Republic,3469.0,3226.0,243.0,,61,51
-Honduras,3359.0,3327.0,32.0,,62,52
-Trinidad & Tobago,3293.0,1996.0,1297.0,,63,53
-Costa Rica,2770.0,2204.0,566.0,,64,54
-Barbados,2605.0,1397.0,1208.0,,65,55
-Turkey,2154.0,1400.0,754.0,,66,56
-Bahrain,1478.0,242.0,1236.0,,67,57
-Jamaica,963.0,723.0,240.0,,68,58
-Algeria,680.0,0.0,680.0,,69,59
-Venezuela,560.0,256.0,304.0,,70,60
-Bolivia,475.0,258.0,217.0,,71,61
-Haiti,450.0,230.0,220.0,,72,62
-Cyprus,323.0,123.0,200.0,,73,63
-Ecuador,291.0,174.0,117.0,,74,64
-Liberia,73.0,24.0,49.0,,75,65
-Russia,67.0,54.0,13.0,,76,66
-Europe,,,,,77,67
-,,,,,78,68
-,,,,,79,69
-Latin America,,,,,80,70
-,,,,,81,71
-Caribbean,,,,,82,72
-,,,,,83,73
-Asia,,,,,84,74
-,,,,,85,75
-Africa,,,,,86,76
-,,,,,87,77
-Other Countries,,,,,88,78
-,,,,,89,79
-,,,,,90,80
-International Orgs.,,,,,91,81
-,,,,,92,82
-,,,,,93,83
-,,,,,94,84
+Country,EU,Ranking_1,Ranking_2,Type,Value
+European Union,,1,1,Total,1487685.0
+Japan,,2,2,Total,1104387.0
+China (Mainland),,3,3,Total,859352.0
+United Kingdom,,4,4,Total,668298.0
+Belgium,Yes,7,6,Total,331059.0
+Luxembourg,Yes,8,6,Total,318175.0
+Switzerland,,9,7,Total,290459.0
+Cayman Islands,,10,8,Total,285314.0
+Canada,,11,9,Total,254092.0
+Ireland,Yes,12,9,Total,253410.0
+Taiwan,,13,10,Total,234643.0
+India,Yes,14,10,Total,232039.0
+Hong Kong,,15,11,Total,226848.0
+Brazil,,16,12,Total,213976.0
+Singapore,,17,13,Total,187640.0
+France,Yes,18,13,Total,183873.0
+Saudi Arabia,,19,14,Total,111016.0
+South Korea,,20,15,Total,105791.0
+Norway,,21,16,Total,104440.0
+Germany,Yes,22,16,Total,91337.0
+Bermuda,,23,17,Total,77397.0
+Netherlands,Yes,24,17,Total,73670.0
+Total Other,,25,18,Total,68063.0
+United Arab Emirates,,26,19,Total,64875.0
+Australia,,27,20,Total,62190.0
+Mexico,,28,21,Total,58164.0
+Thailand,,29,22,Total,52753.0
+Philippines,,30,23,Total,48752.0
+Total Africa,,31,24,Total,47940.0
+Israel,,32,25,Total,46134.0
+British Virgin Islands,,33,26,Total,44444.0
+Kuwait,,34,27,Total,43282.0
+Iraq,,35,28,Total,41177.0
+Spain,Yes,36,28,Total,40313.0
+Italy,Yes,37,28,Total,40230.0
+Colombia,,38,29,Total,39530.0
+Sweden,Yes,39,29,Total,39450.0
+Bahamas,,40,30,Total,38142.0
+International,,41,31,Total,37890.0
+Chile,,42,32,Total,34178.0
+Peru,,43,33,Total,31810.0
+Uruguay,,44,34,Total,15836.0
+South Africa,,45,35,Total,15127.0
+Total Regional Orgs.,,46,36,Total,15073.0
+Kazakhstan,,47,37,Total,13061.0
+Denmark,,48,38,Total,12987.0
+Indonesia,,49,39,Total,12913.0
+Guatemala,,50,40,Total,8806.0
+Malaysia,,51,41,Total,8762.0
+Panama,,52,42,Total,7977.0
+Oman,,53,43,Total,7061.0
+Argentina,,54,44,Total,6854.0
+Finland,,55,45,Total,6460.0
+Paraguay,,56,46,Total,6234.0
+Portugal,,57,47,Total,5633.0
+Austria,,58,48,Total,5367.0
+New Zealand,,59,49,Total,4530.0
+Morocco,,60,50,Total,3931.0
+Dominican Republic,,61,51,Total,3469.0
+Honduras,,62,52,Total,3359.0
+Trinidad & Tobago,,63,53,Total,3293.0
+Costa Rica,,64,54,Total,2770.0
+Barbados,,65,55,Total,2605.0
+Turkey,,66,56,Total,2154.0
+Bahrain,,67,57,Total,1478.0
+Jamaica,,68,58,Total,963.0
+Algeria,,69,59,Total,680.0
+Venezuela,,70,60,Total,560.0
+Bolivia,,71,61,Total,475.0
+Haiti,,72,62,Total,450.0
+Cyprus,,73,63,Total,323.0
+Ecuador,,74,64,Total,291.0
+Liberia,,75,65,Total,73.0
+Russia,,76,66,Total,67.0
+Europe,,77,67,Total,
+,,78,68,Total,
+,,79,69,Total,
+Latin America,,80,70,Total,
+,,81,71,Total,
+Caribbean,,82,72,Total,
+,,83,73,Total,
+Asia,,84,74,Total,
+,,85,75,Total,
+Africa,,86,76,Total,
+,,87,77,Total,
+Other Countries,,88,78,Total,
+,,89,79,Total,
+,,90,80,Total,
+International Orgs.,,91,81,Total,
+,,92,82,Total,
+,,93,83,Total,
+,,94,84,Total,
+European Union,,1,1,Short-Term,1276344.0
+Japan,,2,2,Short-Term,1031430.0
+China (Mainland),,3,3,Short-Term,855041.0
+United Kingdom,,4,4,Short-Term,565124.0
+Belgium,Yes,7,6,Short-Term,280233.0
+Luxembourg,Yes,8,6,Short-Term,254675.0
+Switzerland,,9,7,Short-Term,236108.0
+Cayman Islands,,10,8,Short-Term,159363.0
+Canada,,11,9,Short-Term,228535.0
+Ireland,Yes,12,9,Short-Term,195955.0
+Taiwan,,13,10,Short-Term,226907.0
+India,Yes,14,10,Short-Term,228811.0
+Hong Kong,,15,11,Short-Term,188562.0
+Brazil,,16,12,Short-Term,212138.0
+Singapore,,17,13,Short-Term,174813.0
+France,Yes,18,13,Short-Term,169553.0
+Saudi Arabia,,19,14,Short-Term,102050.0
+South Korea,,20,15,Short-Term,94769.0
+Norway,,21,16,Short-Term,104342.0
+Germany,Yes,22,16,Short-Term,81379.0
+Bermuda,,23,17,Short-Term,42167.0
+Netherlands,Yes,24,17,Short-Term,72172.0
+Total Other,,25,18,Short-Term,55100.0
+United Arab Emirates,,26,19,Short-Term,43314.0
+Australia,,27,20,Short-Term,50052.0
+Mexico,,28,21,Short-Term,46563.0
+Thailand,,29,22,Short-Term,28886.0
+Philippines,,30,23,Short-Term,46462.0
+Total Africa,,31,24,Short-Term,37191.0
+Israel,,32,25,Short-Term,42225.0
+British Virgin Islands,,33,26,Short-Term,29853.0
+Kuwait,,34,27,Short-Term,36154.0
+Iraq,,35,28,Short-Term,27784.0
+Spain,Yes,36,28,Short-Term,38801.0
+Italy,Yes,37,28,Short-Term,38582.0
+Colombia,,38,29,Short-Term,37632.0
+Sweden,Yes,39,29,Short-Term,38773.0
+Bahamas,,40,30,Short-Term,4691.0
+International,,41,31,Short-Term,33200.0
+Chile,,42,32,Short-Term,31626.0
+Peru,,43,33,Short-Term,31519.0
+Uruguay,,44,34,Short-Term,5099.0
+South Africa,,45,35,Short-Term,11585.0
+Total Regional Orgs.,,46,36,Short-Term,13253.0
+Kazakhstan,,47,37,Short-Term,2688.0
+Denmark,,48,38,Short-Term,11583.0
+Indonesia,,49,39,Short-Term,11491.0
+Guatemala,,50,40,Short-Term,8326.0
+Malaysia,,51,41,Short-Term,8600.0
+Panama,,52,42,Short-Term,2862.0
+Oman,,53,43,Short-Term,6567.0
+Argentina,,54,44,Short-Term,1763.0
+Finland,,55,45,Short-Term,6108.0
+Paraguay,,56,46,Short-Term,6170.0
+Portugal,,57,47,Short-Term,5433.0
+Austria,,58,48,Short-Term,4175.0
+New Zealand,,59,49,Short-Term,4158.0
+Morocco,,60,50,Short-Term,3864.0
+Dominican Republic,,61,51,Short-Term,3226.0
+Honduras,,62,52,Short-Term,3327.0
+Trinidad & Tobago,,63,53,Short-Term,1996.0
+Costa Rica,,64,54,Short-Term,2204.0
+Barbados,,65,55,Short-Term,1397.0
+Turkey,,66,56,Short-Term,1400.0
+Bahrain,,67,57,Short-Term,242.0
+Jamaica,,68,58,Short-Term,723.0
+Algeria,,69,59,Short-Term,0.0
+Venezuela,,70,60,Short-Term,256.0
+Bolivia,,71,61,Short-Term,258.0
+Haiti,,72,62,Short-Term,230.0
+Cyprus,,73,63,Short-Term,123.0
+Ecuador,,74,64,Short-Term,174.0
+Liberia,,75,65,Short-Term,24.0
+Russia,,76,66,Short-Term,54.0
+Europe,,77,67,Short-Term,
+,,78,68,Short-Term,
+,,79,69,Short-Term,
+Latin America,,80,70,Short-Term,
+,,81,71,Short-Term,
+Caribbean,,82,72,Short-Term,
+,,83,73,Short-Term,
+Asia,,84,74,Short-Term,
+,,85,75,Short-Term,
+Africa,,86,76,Short-Term,
+,,87,77,Short-Term,
+Other Countries,,88,78,Short-Term,
+,,89,79,Short-Term,
+,,90,80,Short-Term,
+International Orgs.,,91,81,Short-Term,
+,,92,82,Short-Term,
+,,93,83,Short-Term,
+,,94,84,Short-Term,
+European Union,,1,1,Long-Term,211341.0
+Japan,,2,2,Long-Term,72957.0
+China (Mainland),,3,3,Long-Term,4311.0
+United Kingdom,,4,4,Long-Term,103174.0
+Belgium,Yes,7,6,Long-Term,50826.0
+Luxembourg,Yes,8,6,Long-Term,63500.0
+Switzerland,,9,7,Long-Term,54351.0
+Cayman Islands,,10,8,Long-Term,125951.0
+Canada,,11,9,Long-Term,25557.0
+Ireland,Yes,12,9,Long-Term,57455.0
+Taiwan,,13,10,Long-Term,7736.0
+India,Yes,14,10,Long-Term,3228.0
+Hong Kong,,15,11,Long-Term,38286.0
+Brazil,,16,12,Long-Term,1838.0
+Singapore,,17,13,Long-Term,12827.0
+France,Yes,18,13,Long-Term,14320.0
+Saudi Arabia,,19,14,Long-Term,8966.0
+South Korea,,20,15,Long-Term,11022.0
+Norway,,21,16,Long-Term,98.0
+Germany,Yes,22,16,Long-Term,9958.0
+Bermuda,,23,17,Long-Term,35230.0
+Netherlands,Yes,24,17,Long-Term,1499.0
+Total Other,,25,18,Long-Term,12963.0
+United Arab Emirates,,26,19,Long-Term,21561.0
+Australia,,27,20,Long-Term,12138.0
+Mexico,,28,21,Long-Term,11601.0
+Thailand,,29,22,Long-Term,23867.0
+Philippines,,30,23,Long-Term,2290.0
+Total Africa,,31,24,Long-Term,10749.0
+Israel,,32,25,Long-Term,3909.0
+British Virgin Islands,,33,26,Long-Term,14591.0
+Kuwait,,34,27,Long-Term,7128.0
+Iraq,,35,28,Long-Term,13393.0
+Spain,Yes,36,28,Long-Term,1513.0
+Italy,Yes,37,28,Long-Term,1649.0
+Colombia,,38,29,Long-Term,1898.0
+Sweden,Yes,39,29,Long-Term,677.0
+Bahamas,,40,30,Long-Term,33451.0
+International,,41,31,Long-Term,4690.0
+Chile,,42,32,Long-Term,2552.0
+Peru,,43,33,Long-Term,291.0
+Uruguay,,44,34,Long-Term,10737.0
+South Africa,,45,35,Long-Term,3542.0
+Total Regional Orgs.,,46,36,Long-Term,1820.0
+Kazakhstan,,47,37,Long-Term,10373.0
+Denmark,,48,38,Long-Term,1404.0
+Indonesia,,49,39,Long-Term,1422.0
+Guatemala,,50,40,Long-Term,480.0
+Malaysia,,51,41,Long-Term,162.0
+Panama,,52,42,Long-Term,5115.0
+Oman,,53,43,Long-Term,494.0
+Argentina,,54,44,Long-Term,5091.0
+Finland,,55,45,Long-Term,352.0
+Paraguay,,56,46,Long-Term,64.0
+Portugal,,57,47,Long-Term,200.0
+Austria,,58,48,Long-Term,1192.0
+New Zealand,,59,49,Long-Term,372.0
+Morocco,,60,50,Long-Term,67.0
+Dominican Republic,,61,51,Long-Term,243.0
+Honduras,,62,52,Long-Term,32.0
+Trinidad & Tobago,,63,53,Long-Term,1297.0
+Costa Rica,,64,54,Long-Term,566.0
+Barbados,,65,55,Long-Term,1208.0
+Turkey,,66,56,Long-Term,754.0
+Bahrain,,67,57,Long-Term,1236.0
+Jamaica,,68,58,Long-Term,240.0
+Algeria,,69,59,Long-Term,680.0
+Venezuela,,70,60,Long-Term,304.0
+Bolivia,,71,61,Long-Term,217.0
+Haiti,,72,62,Long-Term,220.0
+Cyprus,,73,63,Long-Term,200.0
+Ecuador,,74,64,Long-Term,117.0
+Liberia,,75,65,Long-Term,49.0
+Russia,,76,66,Long-Term,13.0
+Europe,,77,67,Long-Term,
+,,78,68,Long-Term,
+,,79,69,Long-Term,
+Latin America,,80,70,Long-Term,
+,,81,71,Long-Term,
+Caribbean,,82,72,Long-Term,
+,,83,73,Long-Term,
+Asia,,84,74,Long-Term,
+,,85,75,Long-Term,
+Africa,,86,76,Long-Term,
+,,87,77,Long-Term,
+Other Countries,,88,78,Long-Term,
+,,89,79,Long-Term,
+,,90,80,Long-Term,
+International Orgs.,,91,81,Long-Term,
+,,92,82,Long-Term,
+,,93,83,Long-Term,
+,,94,84,Long-Term,
