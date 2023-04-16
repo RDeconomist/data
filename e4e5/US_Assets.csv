@@ -1,126 +1,26 @@
-Rank,Country,Type,Value
-1,United Kingdom,Total,2469.0
-2,Japan,Total,2366.0
-3,Cayman Islands,Total,2313.0
-4,Luxembourg,Total,2096.0
-5,Canada,Total,1850.0
-6,"China, mainland [i]",Total,1473.0
-7,Ireland,Total,1399.0
-8,Switzerland,Total,1016.0
-9,Belgium,Total,874.0
-10,Taiwan,Total,697.0
-11,France,Total,636.0
-12,Australia,Total,573.0
-13,Singapore,Total,560.0
-14,Norway,Total,546.0
-15,"Korea, South",Total,536.0
-16,Germany,Total,524.0
-17,Bermuda,Total,479.0
-18,Netherlands,Total,457.0
-19,Hong Kong,Total,391.0
-20,Kuwait,Total,344.0
-21,Sweden,Total,337.0
-22,Saudi Arabia,Total,311.0
-23,Brazil,Total,245.0
-24,India,Total,218.0
-25,British Virgin Islands,Total,214.0
-1,United Kingdom,Equities,1319.0
-2,Japan,Equities,728.0
-3,Cayman Islands,Equities,1365.0
-4,Luxembourg,Equities,1026.0
-5,Canada,Equities,1348.0
-6,"China, mainland [i]",Equities,273.0
-7,Ireland,Equities,752.0
-8,Switzerland,Equities,629.0
-9,Belgium,Equities,76.0
-10,Taiwan,Equities,100.0
-11,France,Equities,308.0
-12,Australia,Equities,471.0
-13,Singapore,Equities,324.0
-14,Norway,Equities,387.0
-15,"Korea, South",Equities,331.0
-16,Germany,Equities,313.0
-17,Bermuda,Equities,127.0
-18,Netherlands,Equities,305.0
-19,Hong Kong,Equities,142.0
-20,Kuwait,Equities,241.0
-21,Sweden,Equities,280.0
-22,Saudi Arabia,Equities,181.0
-23,Brazil,Equities,18.0
-24,India,Equities,8.0
-25,British Virgin Islands,Equities,129.0
-1,United Kingdom,Asset Backed Securities,132.0
-2,Japan,Asset Backed Securities,249.0
-3,Cayman Islands,Asset Backed Securities,107.0
-4,Luxembourg,Asset Backed Securities,66.0
-5,Canada,Asset Backed Securities,111.0
-6,"China, mainland [i]",Asset Backed Securities,242.0
-7,Ireland,Asset Backed Securities,62.0
-8,Switzerland,Asset Backed Securities,21.0
-9,Belgium,Asset Backed Securities,16.0
-10,Taiwan,Asset Backed Securities,225.0
-11,France,Asset Backed Securities,29.0
-12,Australia,Asset Backed Securities,13.0
-13,Singapore,Asset Backed Securities,18.0
-14,Norway,Asset Backed Securities,
-15,"Korea, South",Asset Backed Securities,41.0
-16,Germany,Asset Backed Securities,13.0
-17,Bermuda,Asset Backed Securities,160.0
-18,Netherlands,Asset Backed Securities,16.0
-19,Hong Kong,Asset Backed Securities,11.0
-20,Kuwait,Asset Backed Securities,6.0
-21,Sweden,Asset Backed Securities,
-22,Saudi Arabia,Asset Backed Securities,2.0
-23,Brazil,Asset Backed Securities,
-24,India,Asset Backed Securities,
-25,British Virgin Islands,Asset Backed Securities,3.0
-1,United Kingdom,Other Long-Term,927.0
-2,Japan,Other Long-Term,1316.0
-3,Cayman Islands,Other Long-Term,697.0
-4,Luxembourg,Other Long-Term,874.0
-5,Canada,Other Long-Term,371.0
-6,"China, mainland [i]",Other Long-Term,956.0
-7,Ireland,Other Long-Term,403.0
-8,Switzerland,Other Long-Term,334.0
-9,Belgium,Other Long-Term,740.0
-10,Taiwan,Other Long-Term,366.0
-11,France,Other Long-Term,282.0
-12,Australia,Other Long-Term,81.0
-13,Singapore,Other Long-Term,208.0
-14,Norway,Other Long-Term,158.0
-15,"Korea, South",Other Long-Term,144.0
-16,Germany,Other Long-Term,190.0
-17,Bermuda,Other Long-Term,153.0
-18,Netherlands,Other Long-Term,134.0
-19,Hong Kong,Other Long-Term,215.0
-20,Kuwait,Other Long-Term,56.0
-21,Sweden,Other Long-Term,56.0
-22,Saudi Arabia,Other Long-Term,108.0
-23,Brazil,Other Long-Term,226.0
-24,India,Other Long-Term,206.0
-25,British Virgin Islands,Other Long-Term,73.0
-1,United Kingdom,Short-Term,92.0
-2,Japan,Short-Term,73.0
-3,Cayman Islands,Short-Term,144.0
-4,Luxembourg,Short-Term,130.0
-5,Canada,Short-Term,21.0
-6,"China, mainland [i]",Short-Term,2.0
-7,Ireland,Short-Term,182.0
-8,Switzerland,Short-Term,32.0
-9,Belgium,Short-Term,41.0
-10,Taiwan,Short-Term,7.0
-11,France,Short-Term,18.0
-12,Australia,Short-Term,9.0
-13,Singapore,Short-Term,11.0
-14,Norway,Short-Term,1.0
-15,"Korea, South",Short-Term,20.0
-16,Germany,Short-Term,8.0
-17,Bermuda,Short-Term,39.0
-18,Netherlands,Short-Term,2.0
-19,Hong Kong,Short-Term,23.0
-20,Kuwait,Short-Term,41.0
-21,Sweden,Short-Term,1.0
-22,Saudi Arabia,Short-Term,20.0
-23,Brazil,Short-Term,1.0
-24,India,Short-Term,3.0
-25,British Virgin Islands,Short-Term,8.0
+﻿Rank,Country,Total,Equities,Asset Backed Securities,Other Long-Term,Short-Term
+1,United Kingdom,"2,469",1319,132,927,92
+2,Japan,"2,366",728,249,1316,73
+3,Cayman Islands,"2,313","1,365",107,697,144
+4,Luxembourg,"2,096",1026,66,874,130
+5,Canada,"1,850",1348,111,371,21
+6,China (mainland),"1,473",273,242,956,2
+7,Ireland,"1,399",752,62,403,182
+8,Switzerland,1016,629,21,334,32
+9,Belgium,874,76,16,740,41
+10,Taiwan,697,100,225,366,7
+11,France,636,308,29,282,18
+12,Australia,573,471,13,81,9
+13,Singapore,560,324,18,208,11
+14,Norway,546,387,,158,1
+15,"Korea, South",536,331,41,144,20
+16,Germany,524,313,13,190,8
+17,Bermuda,479,127,160,153,39
+18,Netherlands,457,305,16,134,2
+19,Hong Kong,391,142,11,215,23
+20,Kuwait,344,241,6,56,41
+21,Sweden,337,280,,56,1
+22,Saudi Arabia,311,181,2,108,20
+23,Brazil,245,18,,226,1
+24,India,218,8,,206,3
+25,British Virgin Islands,214,129,3,73,8
