@@ -1,0 +1,219 @@
+Country,Income,Region,Standard_VAT,id
+Afghanistan,Low income ,Southern Asia,0,4.0
+Albania,Upper middle income ,Southern Europe,20,8.0
+Algeria,Upper middle income ,Northern Africa,19,12.0
+American Samoa,Upper middle income ,Polynesia,,16.0
+Andorra,High income: nonOECD ,Southern Europe,4.5,20.0
+Angola,Upper middle income ,Middle Africa,14,24.0
+Antigua and Barbuda,High income: nonOECD ,Caribbean,15,28.0
+Argentina,High income: nonOECD ,South America,21,32.0
+Armenia,Lower middle income ,Western Asia,20,51.0
+Aruba,High income: nonOECD ,Caribbean,3,533.0
+Australia,High income: OECD ,Australia and New Zealand,10,36.0
+Austria,High income: OECD ,Western Europe,20,40.0
+Azerbaijan,Upper middle income ,Western Asia,18,31.0
+Bahamas,High income: nonOECD ,Caribbean,12,44.0
+Bahrain,High income: nonOECD ,Middle East,5,48.0
+Bangladesh,Lower middle income ,Southern Asia,15,50.0
+Barbados,High income: nonOECD ,Caribbean,17.5,52.0
+Belarus,Upper middle income ,Eastern Europe,20,112.0
+Belgium,High income: OECD ,Western Europe,21,56.0
+Belize,Upper middle income ,Central America,12.5,84.0
+Benin,Low income ,Western Africa,18,204.0
+Bermuda,High income: nonOECD ,Northern America,0,60.0
+Bhutan,Lower middle income ,Southern Asia,20,64.0
+Bolivia,Lower middle income ,South America,15,
+Bosnia and Herzegovina,Upper middle income ,Eastern Europe,17,70.0
+Botswana,Upper middle income ,Southern Africa,12,72.0
+Brazil,Upper middle income ,South America,20,76.0
+Brunei Darussalam,High income: nonOECD ,South-Eastern Asia,0,96.0
+Bulgaria,Upper middle income ,Eastern Europe,20,100.0
+Burkina Faso,Low income ,Western Africa,18,854.0
+Burundi,Low income ,Eastern Africa,18,108.0
+Cambodia,Low income ,South-Eastern Asia,10,116.0
+Cameroon,Lower middle income ,Middle Africa,19.25,120.0
+Canada,High income: OECD ,Northern America,5,124.0
+Cape Verde,Lower middle income ,Western Africa,15,
+Cayman Islands,High income: nonOECD ,Caribbean,0,136.0
+Central African Republic,Low income ,Middle Africa,19,140.0
+Chad,Low income ,Middle Africa,18,148.0
+Channel Islands,High income: nonOECD ,Northern Europe,,
+Chile,High income: OECD ,South America,19,152.0
+China,Upper middle income ,Eastern Asia,13,156.0
+Colombia,Upper middle income ,South America,19,170.0
+Comoros Islands,Low income ,Eastern Africa,10,
+"Congo, Democratic Republic of the",Low income ,Middle Africa,16,180.0
+Congo,Lower middle income ,Middle Africa,18,178.0
+Cook Islands,,Polynesia,15,184.0
+Costa Rica,Upper middle income ,Central America,13,188.0
+Cote d'Ivoire,Lower middle income ,Western Africa,18,
+Croatia,High income: nonOECD ,Eastern Europe,25,191.0
+Cuba,Upper middle income ,Caribbean,,192.0
+Curaçao,High income: nonOECD ,Caribbean,6,531.0
+Cyprus,High income: nonOECD ,Southern Europe,19,196.0
+Czechia,High income: OECD ,Eastern Europe,21,203.0
+Denmark,High income: OECD ,Northern Europe,25,208.0
+Djibouti,Lower middle income ,Eastern Africa,10,262.0
+Dominica,Upper middle income ,Caribbean,15,212.0
+Dominican Republic,Upper middle income ,Caribbean,18,214.0
+Ecuador,Upper middle income ,South America,12,218.0
+Egypt,Lower middle income ,Northern Africa,14,818.0
+El Salvador,Lower middle income ,Central America,13,222.0
+Equatorial Guinea,High income: nonOECD ,Middle Africa,15,226.0
+Eritrea,Low income ,Eastern Africa,12,232.0
+Estonia,High income: OECD ,Baltic States,20,233.0
+Ethiopia,Low income ,Eastern Africa,15,231.0
+Faroe Islands,High income: nonOECD ,Northern Europe,,234.0
+Fiji,Upper middle income ,Melanesia,9,242.0
+Finland,High income: OECD ,Northern Europe,24,246.0
+France,High income: OECD ,Western Europe,20,250.0
+French Polynesia,High income: nonOECD ,Polynesia,,258.0
+Gabon,Upper middle income ,Middle Africa,18,266.0
+Gambia,Low income ,Western Africa,15,270.0
+Georgia,Lower middle income ,Western Asia,18,268.0
+Germany,High income: OECD ,Western Europe,19,276.0
+Ghana,Lower middle income ,Western Africa,12.5,288.0
+Gibraltar,,Southern Europe,0,292.0
+Greece,High income: OECD ,Southern Europe,24,300.0
+Greenland,High income: nonOECD ,Northern America,0,304.0
+Grenada,Upper middle income ,Caribbean,15,308.0
+Guam,High income: nonOECD ,Micronesia,,316.0
+Guatemala,Lower middle income ,Central America,12,320.0
+Guernsey,,Northern Europe,0,831.0
+Guinea,Low income ,Western Africa,18,324.0
+Guinea-Bissau,Low income ,Western Africa,17,624.0
+Guyana,Lower middle income ,South America,14%,328.0
+Haiti,Low income ,Caribbean,,332.0
+Honduras,Lower middle income ,Central America,15,340.0
+Hong Kong,High income: nonOECD ,Eastern Asia,0,344.0
+Hungary,High income: OECD ,Eastern Europe,27,348.0
+Iceland,High income: OECD ,Northern Europe,24,352.0
+India,Lower middle income ,Southern Asia,18,356.0
+Indonesia,Lower middle income ,South-Eastern Asia,10,360.0
+Iran (Islamic Republic of),Upper middle income ,Middle East,9,364.0
+Iraq,Upper middle income ,Middle East,,368.0
+Ireland,High income: OECD ,Northern Europe,23,372.0
+Isle of Man,High income: nonOECD ,Northern Europe,20,833.0
+Israel,High income: OECD ,Middle East,17,376.0
+Italy,High income: OECD ,Southern Europe,22,380.0
+Côte d'Ivoire,,,18,384.0
+Jamaica,Upper middle income ,Caribbean,16.5,388.0
+Japan,High income: OECD ,Eastern Asia,10,392.0
+Jersey,,Northern Europe,5,832.0
+Jordan,Upper middle income ,Middle East,16,400.0
+Kazakhstan,Upper middle income ,Central Asia,12,398.0
+Kenya,Lower middle income ,Eastern Africa,14,404.0
+Kiribati,Lower middle income ,Micronesia,,296.0
+"Korea, Republic of",High income: OECD ,Eastern Asia,10,410.0
+Kosovo,Lower middle income ,Eastern Europe,18,
+Kuwait,High income: nonOECD ,Middle East,0,414.0
+Kyrgyzstan,Lower middle income ,Central Asia,12,417.0
+Lao People's Democratic Republic,Lower middle income ,South-Eastern Asia,10,418.0
+Latvia,High income: nonOECD ,Baltic States,21,428.0
+Lebanon,Upper middle income ,Middle East,11,422.0
+Lesotho,Lower middle income ,Southern Africa,,426.0
+Liberia,Low income ,Western Africa,10,430.0
+Libya,Upper middle income ,Northern Africa,0,434.0
+Liechtenstein,High income: nonOECD ,Western Europe,7.7,438.0
+Lithuania,High income: nonOECD ,Baltic States,21,440.0
+Luxembourg,High income: OECD ,Western Europe,17,442.0
+Macao,High income: nonOECD ,Eastern Asia,0,446.0
+North Macedonia,Upper middle income ,Eastern Europe,18,807.0
+Madagascar,Low income ,Eastern Africa,20,450.0
+Malawi,Low income ,Eastern Africa,16.5,454.0
+Malaysia,Upper middle income ,South-Eastern Asia,10,458.0
+Maldives,Upper middle income ,Southern Asia,6,462.0
+Mali,Low income ,Western Africa,,466.0
+Malta,High income: nonOECD ,Southern Europe,18,470.0
+Marshall Islands,Upper middle income ,Micronesia,,584.0
+Mauritania,Lower middle income ,Western Africa,,478.0
+Mauritius,Upper middle income ,Eastern Africa,15,480.0
+Mayotte,,Eastern Africa,,175.0
+Mexico,Upper middle income ,Central America,16,484.0
+Moldova,Lower middle income ,Eastern Europe,20,
+Monaco,High income: nonOECD ,Western Europe,20,492.0
+Mongolia,Upper middle income ,Eastern Asia,,496.0
+Montenegro,Upper middle income ,Eastern Europe,21,499.0
+Montserrat,,Caribbean,0,500.0
+Morocco,Lower middle income ,Northern Africa,20,504.0
+Mozambique,Low income ,Eastern Africa,17,508.0
+Myanmar,Lower middle income ,South-Eastern Asia,0,104.0
+Namibia,Upper middle income ,Southern Africa,15,516.0
+Nauru,,Micronesia,0,520.0
+Nepal,Low income ,Southern Asia,13,524.0
+Netherlands,High income: OECD ,Western Europe,21,528.0
+New Zealand,High income: OECD ,Australia and New Zealand,15,554.0
+Nicaragua,Lower middle income ,Central America,15,558.0
+Niger,Low income ,Western Africa,19,562.0
+Nigeria,Lower middle income ,Western Africa,7.5,566.0
+Niue,,Polynesia,12.5,570.0
+Norway,High income: OECD ,Northern Europe,25,578.0
+Oman,High income: nonOECD ,Middle East,5,512.0
+Pakistan,Lower middle income ,Southern Asia,17,586.0
+Palau,Upper middle income ,Micronesia,0,585.0
+"Palestine, State of",Lower middle income ,Middle East,16,275.0
+Panama,Upper middle income ,Central America,7,591.0
+Papua New Guinea,Lower middle income ,Melanesia,10,598.0
+Paraguay,Upper middle income ,South America,10,600.0
+Peru,Upper middle income ,South America,18,604.0
+Philippines,Lower middle income ,South-Eastern Asia,12,608.0
+Poland,High income: OECD ,Eastern Europe,23,616.0
+Portugal,High income: OECD ,Southern Europe,23,620.0
+Puerto Rico,,,10.5,630.0
+Qatar,High income: nonOECD ,Middle East,5,634.0
+Réunion,,,9,638.0
+Romania,Upper middle income ,Eastern Europe,19,642.0
+Russian Federation,High income: nonOECD ,Eastern Europe,20,643.0
+Rwanda,Low income ,Eastern Africa,18,646.0
+Samoa,Lower middle income ,Polynesia,15,882.0
+San Marino,High income: nonOECD ,Southern Europe,,674.0
+Sao Tome and Principe,Lower middle income ,Middle Africa,5,678.0
+Saudi Arabia,High income: nonOECD ,Middle East,5,682.0
+Senegal,Lower middle income ,Western Africa,18,686.0
+Serbia,Upper middle income ,Eastern Europe,20,688.0
+Seychelles,High income: nonOECD ,Eastern Africa,15,690.0
+Sierra Leone,Low income ,Western Africa,15,694.0
+Singapore,High income: nonOECD ,South-Eastern Asia,7,702.0
+Sint Maarten (Dutch part),,,5,534.0
+Slovak Republic,High income: OECD ,Eastern Europe,20,
+Slovenia,High income: OECD ,Eastern Europe,22,705.0
+Solomon Islands,Lower middle income ,Melanesia,0,90.0
+Somalia,Low income ,Eastern Africa,,706.0
+South Africa,Upper middle income ,Southern Africa,15,710.0
+South Sudan,Low income ,Eastern Africa,18,728.0
+Spain,High income: OECD ,Southern Europe,21,724.0
+Sri Lanka,Lower middle income ,Southern Asia,8,144.0
+Saint Kitts and Nevis,High income: nonOECD ,Caribbean,17,659.0
+Saint Lucia,Upper middle income ,Caribbean,12.5,662.0
+Saint Vincent and the Grenadines,Upper middle income ,Caribbean,16,670.0
+Sudan,Lower middle income ,Northern Africa,17,729.0
+Suriname,Upper middle income ,South America,9,740.0
+Eswatini,Lower middle income ,Southern Africa,15,748.0
+Sweden,High income: OECD ,Northern Europe,25,752.0
+Switzerland,High income: OECD ,Western Europe,7.7,756.0
+Syrian Arab Republic ,Lower middle income ,Middle East,,
+"Taiwan, Province of China",High income: nonOECD ,Eastern Asia,5,158.0
+Tajikistan,Lower middle income ,Central Asia,18,762.0
+"Tanzania, United Republic of",Low income ,Eastern Africa,18,834.0
+Thailand,Upper middle income ,South-Eastern Asia,7,764.0
+Timor-Leste,Lower middle income ,South-Eastern Asia,2.5,626.0
+Togo,Low income ,Western Africa,18,768.0
+Trinidad and Tobago,High income: nonOECD ,Caribbean,12.5,780.0
+Tunisia,Upper middle income ,Northern Africa,19,788.0
+Türkiye,Upper middle income ,Western Asia,18,792.0
+Turkmenistan,Upper middle income ,Central Asia,15,795.0
+Turks and Caicos Islands,High income: nonOECD ,Caribbean,0,796.0
+Tuvalu,Upper middle income ,Polynesia,,798.0
+Uganda,Low income ,Eastern Africa,18,800.0
+Ukraine,Lower middle income ,Eastern Europe,20,804.0
+United Arab Emirates,High income: nonOECD ,Middle East,5,784.0
+United Kingdom of Great Britain and Northern Ireland,High income: OECD ,Northern Europe,20,826.0
+United States of America,High income: OECD ,Northern America,12,840.0
+Uruguay,High income: nonOECD ,South America,22,858.0
+Uzbekistan,Lower middle income ,Central Asia,20,860.0
+Vanuatu,Lower middle income ,Melanesia,,548.0
+Venezuela (Bolivarian Republic of),High income: nonOECD ,South America,16,862.0
+Viet Nam,Lower middle income ,South-Eastern Asia,10,704.0
+Yemen,Lower middle income ,Middle East,5,887.0
+Zambia,Lower middle income ,Eastern Africa,16,894.0
+Zimbabwe,Low income ,Eastern Africa,14.5,716.0
