@@ -1,0 +1,180 @@
+Country,Sales_Tax,id
+Afghanistan,10.0,4.0
+Albania,20.0,8.0
+Algeria,19.0,12.0
+Andorra,4.5,20.0
+Angola,14.0,24.0
+Antigua And Barbuda,15.0,
+Argentina,21.0,32.0
+Armenia,20.0,51.0
+Aruba,3.0,533.0
+Australia,10.0,36.0
+Austria,20.0,40.0
+Azerbaijan,18.0,31.0
+Bahamas,12.0,44.0
+Bahrain,10.0,48.0
+Bangladesh,15.0,50.0
+Barbados,17.5,52.0
+Belarus,20.0,112.0
+Belgium,21.0,56.0
+Belize,12.5,84.0
+Benin,18.0,204.0
+Bhutan,50.0,64.0
+Bolivia (Plurinational State of),13.0,68.0
+Bosnia and Herzegovina,17.0,70.0
+Botswana,14.0,72.0
+Brazil,17.0,76.0
+Bulgaria,20.0,100.0
+Burkina Faso,18.0,854.0
+Burundi,18.0,108.0
+Cambodia,10.0,116.0
+Cameroon,19.5,120.0
+Canada,5.0,124.0
+Cape Verde,15.0,
+Central African Republic,19.0,140.0
+Chad,18.0,148.0
+Chile,19.0,152.0
+China,13.0,156.0
+Colombia,19.0,170.0
+Comoros,10.0,174.0
+Congo,16.0,178.0
+Costa Rica,13.0,188.0
+Croatia,25.0,191.0
+Cuba,20.0,192.0
+Cyprus,19.0,196.0
+Czechia,21.0,203.0
+Denmark,25.0,208.0
+Djibouti,10.0,262.0
+Dominica,15.0,212.0
+Dominican Republic,18.0,214.0
+Ecuador,12.0,218.0
+Egypt,14.0,818.0
+El Salvador,13.0,222.0
+Equatorial Guinea,15.0,226.0
+Eritrea,5.0,232.0
+Estonia,20.0,233.0
+Ethiopia,15.0,231.0
+Euro Area,20.8,
+European Union,21.0,
+Fiji,9.0,242.0
+Finland,24.0,246.0
+France,20.0,250.0
+Gabon,18.0,266.0
+Gambia,15.0,270.0
+Georgia,18.0,268.0
+Germany,19.0,276.0
+Ghana,15.0,288.0
+Greece,24.0,300.0
+Grenada,15.0,308.0
+Guam,2.0,316.0
+Guatemala,12.0,320.0
+Guinea,18.0,324.0
+Guyana,14.0,328.0
+Haiti,10.0,332.0
+Honduras,15.0,340.0
+Hungary,27.0,348.0
+Iceland,24.0,352.0
+India,18.0,356.0
+Indonesia,11.0,360.0
+Iran (Islamic Republic of),9.0,364.0
+Ireland,23.0,372.0
+Isle Of Man,20.0,
+Israel,17.0,376.0
+Italy,22.0,380.0
+Côte d'Ivoire,18.0,384.0
+Jamaica,15.0,388.0
+Japan,10.0,392.0
+Jordan,16.0,400.0
+Kazakhstan,12.0,398.0
+Kenya,16.0,404.0
+Kosovo,18.0,
+Kyrgyzstan,12.0,417.0
+Lao People's Democratic Republic,10.0,418.0
+Latvia,21.0,428.0
+Lebanon,11.0,422.0
+Lesotho,15.0,426.0
+Liechtenstein,7.7,438.0
+Lithuania,21.0,440.0
+Luxembourg,16.0,442.0
+Macedonia,18.0,
+Madagascar,20.0,450.0
+Malawi,16.5,454.0
+Malaysia,10.0,458.0
+Mali,18.0,466.0
+Malta,18.0,470.0
+Mauritania,16.0,478.0
+Mauritius,15.0,480.0
+Mexico,16.0,484.0
+Micronesia,5.0,
+Moldova,20.0,
+Monaco,20.0,492.0
+Mongolia,10.0,496.0
+Montenegro,21.0,499.0
+Morocco,20.0,504.0
+Mozambique,16.0,508.0
+Myanmar,5.0,104.0
+Namibia,15.0,516.0
+Nepal,13.0,524.0
+Netherlands,21.0,528.0
+New Zealand,15.0,554.0
+Nicaragua,15.0,558.0
+Niger,19.0,562.0
+Nigeria,7.5,566.0
+Korea (Democratic People's Republic of),15.0,408.0
+Norway,25.0,578.0
+Oman,5.0,512.0
+Pakistan,17.0,586.0
+Panama,7.0,591.0
+Papua New Guinea,10.0,598.0
+Paraguay,10.0,600.0
+Peru,18.0,604.0
+Philippines,12.0,608.0
+Poland,23.0,616.0
+Portugal,23.0,620.0
+Republic of the Congo,18.9,
+Romania,19.0,642.0
+Russian Federation,20.0,643.0
+Rwanda,18.0,646.0
+Samoa,15.0,882.0
+Saudi Arabia,15.0,682.0
+Senegal,18.0,686.0
+Serbia,20.0,688.0
+Seychelles,15.0,690.0
+Sierra Leone,15.0,694.0
+Singapore,7.0,702.0
+Slovakia,20.0,703.0
+Slovenia,22.0,705.0
+Solomon Islands,10.0,90.0
+Somalia,10.0,706.0
+South Africa,15.0,710.0
+South Korea,10.0,
+Spain,21.0,724.0
+Sri Lanka,8.0,144.0
+Saint Lucia,15.0,662.0
+Sudan,17.0,729.0
+Suriname,10.0,740.0
+Swaziland,15.0,
+Sweden,25.0,752.0
+Switzerland,7.7,756.0
+"Taiwan, Province of China",5.0,158.0
+Tajikistan,15.0,762.0
+"Tanzania, United Republic of",18.0,834.0
+Thailand,7.0,764.0
+Togo,18.0,768.0
+Tonga,15.0,776.0
+Trinidad And Tobago,12.5,
+Tunisia,19.0,788.0
+Turkey,18.0,
+Turkmenistan,15.0,795.0
+Uganda,18.0,800.0
+Ukraine,20.0,804.0
+United Arab Emirates,5.0,784.0
+United Kingdom of Great Britain and Northern Ireland,20.0,826.0
+United States of America,0.0,840.0
+Uruguay,22.0,858.0
+Uzbekistan,15.0,860.0
+Vanuatu,15.0,548.0
+Venezuela (Bolivarian Republic of),16.0,862.0
+Viet Nam,10.0,704.0
+Zambia,16.0,894.0
+Zimbabwe,14.5,716.0
