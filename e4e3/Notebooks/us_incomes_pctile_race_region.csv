@@ -284,247 +284,250 @@ Year,Series,Income,View
 1969,95th,142828,by Percentile
 1968,95th,135852,by Percentile
 1967,95th,135134,by Percentile
-2021,All Races,70784,by Race
-2020,All Races,71186,by Race
-2019,All Races,72808,by Race
-2018,All Races,68168,by Race
-2017,All Races,67571,by Race
-2017,All Races,67832,by Race
-2016,All Races,66657,by Race
-2015,All Races,64631,by Race
-2014,All Races,61468,by Race
-2013,All Races,62425,by Race
-2013,All Races,60507,by Race
-2012,All Races,60313,by Race
-2011,All Races,60428,by Race
-2010,All Races,61364,by Race
-2009,All Races,63011,by Race
-2008,All Races,63455,by Race
-2007,All Races,65801,by Race
-2006,All Races,64930,by Race
-2005,All Races,64427,by Race
-2004,All Races,63745,by Race
-2003,All Races,63967,by Race
-2002,All Races,64047,by Race
-2001,All Races,64779,by Race
-2000,All Races,66248,by Race
-1999,All Races,66385,by Race
-1998,All Races,64781,by Race
-1997,All Races,62484,by Race
-1996,All Races,61225,by Race
-1995,All Races,60348,by Race
-1994,All Races,58515,by Race
-1993,All Races,57843,by Race
-1992,All Races,58153,by Race
-1991,All Races,58607,by Race
-1990,All Races,60370,by Race
-1989,All Races,61153,by Race
-1988,All Races,60115,by Race
-1987,All Races,59624,by Race
-1986,All Races,58920,by Race
-1985,All Races,56871,by Race
-1984,All Races,55828,by Race
-1983,All Races,54182,by Race
-1982,All Races,54564,by Race
-1981,All Races,54713,by Race
-1980,All Races,55596,by Race
-1979,All Races,57462,by Race
-1978,All Races,57572,by Race
-1977,All Races,55427,by Race
-1976,All Races,55078,by Race
-1975,All Races,54180,by Race
-1974,All Races,55636,by Race
-1973,All Races,57456,by Race
-1972,All Races,56319,by Race
-1971,All Races,54006,by Race
-1970,All Races,54536,by Race
-1969,All Races,54962,by Race
-1968,All Races,52992,by Race
 1967,All Races,50803,by Race
-2021,"White, Not Hispanic",77999,by Race
-2020,"White, Not Hispanic",78912,by Race
-2019,"White, Not Hispanic",80602,by Race
-2018,"White, Not Hispanic",76220,by Race
-2017,"White, Not Hispanic",75367,by Race
-2017,"White, Not Hispanic",75318,by Race
-2016,"White, Not Hispanic",73433,by Race
-2015,"White, Not Hispanic",71989,by Race
-2014,"White, Not Hispanic",69027,by Race
-2013,"White, Not Hispanic",70281,by Race
-2013,"White, Not Hispanic",67882,by Race
-2012,"White, Not Hispanic",67397,by Race
-2011,"White, Not Hispanic",66897,by Race
-2010,"White, Not Hispanic",67820,by Race
-2009,"White, Not Hispanic",68940,by Race
-2008,"White, Not Hispanic",70049,by Race
-2007,"White, Not Hispanic",71941,by Race
-2006,"White, Not Hispanic",70617,by Race
-2005,"White, Not Hispanic",70627,by Race
-2004,"White, Not Hispanic",70325,by Race
-2003,"White, Not Hispanic",70552,by Race
-2002,"White, Not Hispanic",70829,by Race
-2001,"White, Not Hispanic",71033,by Race
-2000,"White, Not Hispanic",71979,by Race
-1999,"White, Not Hispanic",72030,by Race
-1998,"White, Not Hispanic",70702,by Race
-1997,"White, Not Hispanic",68516,by Race
-1996,"White, Not Hispanic",66909,by Race
-1995,"White, Not Hispanic",65841,by Race
-1994,"White, Not Hispanic",63706,by Race
-1993,"White, Not Hispanic",63272,by Race
-1992,"White, Not Hispanic",63191,by Race
-1991,"White, Not Hispanic",62881,by Race
-1990,"White, Not Hispanic",64407,by Race
-1989,"White, Not Hispanic",65710,by Race
-1988,"White, Not Hispanic",65302,by Race
-1987,"White, Not Hispanic",64547,by Race
-1986,"White, Not Hispanic",63352,by Race
-1985,"White, Not Hispanic",61326,by Race
-1984,"White, Not Hispanic",60119,by Race
-1982,"White, Not Hispanic",58081,by Race
-1981,"White, Not Hispanic",58642,by Race
-1980,"White, Not Hispanic",59693,by Race
-1979,"White, Not Hispanic",61096,by Race
-1978,"White, Not Hispanic",60977,by Race
-1977,"White, Not Hispanic",59442,by Race
-1976,"White, Not Hispanic",58873,by Race
-1975,"White, Not Hispanic",57086,by Race
-1974,"White, Not Hispanic",58682,by Race
-1973,"White, Not Hispanic",60746,by Race
-1972,"White, Not Hispanic",59926,by Race
-2021,Black,48815,by Race
-2020,Black,48936,by Race
-2019,Black,48827,by Race
-2018,Black,44984,by Race
-2017,Black,44197,by Race
-2017,Black,44867,by Race
-2016,Black,45235,by Race
-2015,Black,42554,by Race
-2014,Black,40843,by Race
-2013,Black,41664,by Race
-2013,Black,40512,by Race
-2012,Black,39862,by Race
-2011,Black,39074,by Race
-2010,Black,40044,by Race
-2009,Black,41457,by Race
-2008,Black,43325,by Race
-2007,Black,44656,by Race
-2006,Black,43284,by Race
-2005,Black,43049,by Race
-2004,Black,43473,by Race
-2003,Black,43841,by Race
-2002,Black,44064,by Race
-2021,Black,48297,by Race
-2020,Black,48175,by Race
-2019,Black,48153,by Race
-2018,Black,44627,by Race
-2017,Black,43509,by Race
-2017,Black,44496,by Race
-2016,Black,44585,by Race
-2015,Black,42196,by Race
-2014,Black,40551,by Race
-2013,Black,41151,by Race
-2013,Black,40305,by Race
-2012,Black,39393,by Race
-2011,Black,38909,by Race
-2010,Black,40005,by Race
-2009,Black,41247,by Race
-2008,Black,43165,by Race
-2007,Black,44427,by Race
-2006,Black,43064,by Race
-2005,Black,42915,by Race
-2004,Black,43272,by Race
-2003,Black,43776,by Race
-2002,Black,43836,by Race
-2021,Asian,101418,by Race
-2020,Asian,99622,by Race
-2019,Asian,104041,by Race
-2018,Asian,94079,by Race
-2017,Asian,89960,by Race
-2017,Asian,89892,by Race
-2016,Asian,91938,by Race
-2015,Asian,88247,by Race
-2014,Asian,85112,by Race
-2013,Asian,84324,by Race
-2013,Asian,78128,by Race
-2012,Asian,81143,by Race
-2011,Asian,78628,by Race
-2010,Asian,80023,by Race
-2009,Asian,82875,by Race
-2008,Asian,82798,by Race
-2007,Asian,86589,by Race
-2006,Asian,86533,by Race
-2005,Asian,84965,by Race
-2004,Asian,82681,by Race
-2003,Asian,82250,by Race
-2002,Asian,79477,by Race
-2001,Asian,82277,by Race
-2000,Asian,87968,by Race
-1999,Asian,83128,by Race
-1998,Asian,77696,by Race
-1997,Asian,76404,by Race
-1996,Asian,74653,by Race
-1995,Asian,71926,by Race
-1994,Asian,73420,by Race
-1993,Asian,71000,by Race
-1992,Asian,71754,by Race
-1991,Asian,70908,by Race
-1990,Asian,77522,by Race
-1989,Asian,76377,by Race
-1988,Asian,71248,by Race
-1987,Asian,73728,by Race
-2021,Hispanic (any race),57981,by Race
-2020,Hispanic (any race),58015,by Race
-2019,Hispanic (any race),59467,by Race
-2018,Hispanic (any race),55513,by Race
-2017,Hispanic (any race),55448,by Race
-2017,Hispanic (any race),55800,by Race
-2016,Hispanic (any race),53827,by Race
-2015,Hispanic (any race),51631,by Race
-2014,Hispanic (any race),48676,by Race
-2013,Hispanic (any race),46234,by Race
-2013,Hispanic (any race),47720,by Race
-2012,Hispanic (any race),46113,by Race
-2011,Hispanic (any race),46629,by Race
-2010,Hispanic (any race),46863,by Race
-2009,Hispanic (any race),48152,by Race
-2008,Hispanic (any race),47826,by Race
-2007,Hispanic (any race),50666,by Race
-2006,Hispanic (any race),50893,by Race
-2005,Hispanic (any race),50020,by Race
-2004,Hispanic (any race),49276,by Race
-2003,Hispanic (any race),48726,by Race
-2002,Hispanic (any race),49993,by Race
-2001,Hispanic (any race),51490,by Race
-2000,Hispanic (any race),52329,by Race
-1999,Hispanic (any race),50154,by Race
-1998,Hispanic (any race),47197,by Race
-1997,Hispanic (any race),44962,by Race
-1996,Hispanic (any race),42964,by Race
-1995,Hispanic (any race),40484,by Race
-1994,Hispanic (any race),42477,by Race
-1993,Hispanic (any race),42374,by Race
-1992,Hispanic (any race),42893,by Race
-1991,Hispanic (any race),44143,by Race
-1990,Hispanic (any race),45021,by Race
-1989,Hispanic (any race),46376,by Race
-1988,Hispanic (any race),44954,by Race
-1987,Hispanic (any race),44238,by Race
-1986,Hispanic (any race),43431,by Race
-1985,Hispanic (any race),42055,by Race
-1984,Hispanic (any race),42321,by Race
-1983,Hispanic (any race),41265,by Race
-1982,Hispanic (any race),41058,by Race
-1981,Hispanic (any race),43887,by Race
-1980,Hispanic (any race),42854,by Race
-1979,Hispanic (any race),45527,by Race
-1978,Hispanic (any race),45109,by Race
-1977,Hispanic (any race),43482,by Race
-1976,Hispanic (any race),41545,by Race
-1975,Hispanic (any race),40704,by Race
-1974,Hispanic (any race),44253,by Race
-1973,Hispanic (any race),44513,by Race
+1967,Black,30761,by Race
+1968,All Races,52992,by Race
+1968,Black,32536,by Race
+1969,All Races,54962,by Race
+1969,Black,34672,by Race
+1970,All Races,54536,by Race
+1970,Black,34574,by Race
+1971,All Races,54006,by Race
+1971,Black,33368,by Race
+1972,All Races,56319,by Race
+1972,Black,34487,by Race
 1972,Hispanic (any race),44587,by Race
+1972,"White, Not Hispanic",59926,by Race
+1973,All Races,57456,by Race
+1973,Black,35445,by Race
+1973,Hispanic (any race),44513,by Race
+1973,"White, Not Hispanic",60746,by Race
+1974,All Races,55636,by Race
+1974,Black,34603,by Race
+1974,Hispanic (any race),44253,by Race
+1974,"White, Not Hispanic",58682,by Race
+1975,All Races,54180,by Race
+1975,Black,34014,by Race
+1975,Hispanic (any race),40704,by Race
+1975,"White, Not Hispanic",57086,by Race
+1976,All Races,55078,by Race
+1976,Black,34308,by Race
+1976,Hispanic (any race),41545,by Race
+1976,"White, Not Hispanic",58873,by Race
+1977,All Races,55427,by Race
+1977,Black,34395,by Race
+1977,Hispanic (any race),43482,by Race
+1977,"White, Not Hispanic",59442,by Race
+1978,All Races,57572,by Race
+1978,Black,35967,by Race
+1978,Hispanic (any race),45109,by Race
+1978,"White, Not Hispanic",60977,by Race
+1979,All Races,57462,by Race
+1979,Black,35372,by Race
+1979,Hispanic (any race),45527,by Race
+1979,"White, Not Hispanic",61096,by Race
+1980,All Races,55596,by Race
+1980,Black,33791,by Race
+1980,Hispanic (any race),42854,by Race
+1980,"White, Not Hispanic",59693,by Race
+1981,All Races,54713,by Race
+1981,Black,32439,by Race
+1981,Hispanic (any race),43887,by Race
+1981,"White, Not Hispanic",58642,by Race
+1982,All Races,54564,by Race
+1982,Black,32374,by Race
+1982,Hispanic (any race),41058,by Race
+1982,"White, Not Hispanic",58081,by Race
+1983,All Races,54182,by Race
+1983,Black,32244,by Race
+1983,Hispanic (any race),41265,by Race
+1984,All Races,55828,by Race
+1984,Black,33551,by Race
+1984,Hispanic (any race),42321,by Race
+1984,"White, Not Hispanic",60119,by Race
+1985,All Races,56871,by Race
+1985,Black,35684,by Race
+1985,Hispanic (any race),42055,by Race
+1985,"White, Not Hispanic",61326,by Race
+1986,All Races,58920,by Race
+1986,Black,35688,by Race
+1986,Hispanic (any race),43431,by Race
+1986,"White, Not Hispanic",63352,by Race
+1987,All Races,59624,by Race
+1987,Asian,73728,by Race
+1987,Black,35855,by Race
+1987,Hispanic (any race),44238,by Race
+1987,"White, Not Hispanic",64547,by Race
+1988,All Races,60115,by Race
+1988,Asian,71248,by Race
+1988,Black,36228,by Race
+1988,Hispanic (any race),44954,by Race
+1988,"White, Not Hispanic",65302,by Race
+1989,All Races,61153,by Race
+1989,Asian,76377,by Race
+1989,Black,38256,by Race
+1989,Hispanic (any race),46376,by Race
+1989,"White, Not Hispanic",65710,by Race
+1990,All Races,60370,by Race
+1990,Asian,77522,by Race
+1990,Black,37654,by Race
+1990,Hispanic (any race),45021,by Race
+1990,"White, Not Hispanic",64407,by Race
+1991,All Races,58607,by Race
+1991,Asian,70908,by Race
+1991,Black,36587,by Race
+1991,Hispanic (any race),44143,by Race
+1991,"White, Not Hispanic",62881,by Race
+1992,All Races,58153,by Race
+1992,Asian,71754,by Race
+1992,Black,35601,by Race
+1992,Hispanic (any race),42893,by Race
+1992,"White, Not Hispanic",63191,by Race
+1993,All Races,57843,by Race
+1993,Asian,71000,by Race
+1993,Black,36166,by Race
+1993,Hispanic (any race),42374,by Race
+1993,"White, Not Hispanic",63272,by Race
+1994,All Races,58515,by Race
+1994,Asian,73420,by Race
+1994,Black,38135,by Race
+1994,Hispanic (any race),42477,by Race
+1994,"White, Not Hispanic",63706,by Race
+1995,All Races,60348,by Race
+1995,Asian,71926,by Race
+1995,Black,39657,by Race
+1995,Hispanic (any race),40484,by Race
+1995,"White, Not Hispanic",65841,by Race
+1996,All Races,61225,by Race
+1996,Asian,74653,by Race
+1996,Black,40507,by Race
+1996,Hispanic (any race),42964,by Race
+1996,"White, Not Hispanic",66909,by Race
+1997,All Races,62484,by Race
+1997,Asian,76404,by Race
+1997,Black,42298,by Race
+1997,Hispanic (any race),44962,by Race
+1997,"White, Not Hispanic",68516,by Race
+1998,All Races,64781,by Race
+1998,Asian,77696,by Race
+1998,Black,42234,by Race
+1998,Hispanic (any race),47197,by Race
+1998,"White, Not Hispanic",70702,by Race
+1999,All Races,66385,by Race
+1999,Asian,83128,by Race
+1999,Black,45528,by Race
+1999,Hispanic (any race),50154,by Race
+1999,"White, Not Hispanic",72030,by Race
+2000,All Races,66248,by Race
+2000,Asian,87968,by Race
+2000,Black,46806,by Race
+2000,Hispanic (any race),52329,by Race
+2000,"White, Not Hispanic",71979,by Race
+2001,All Races,64779,by Race
+2001,Asian,82277,by Race
+2001,Black,45208,by Race
+2001,Hispanic (any race),51490,by Race
+2001,"White, Not Hispanic",71033,by Race
+2002,All Races,64047,by Race
+2002,Asian,79477,by Race
+2002,Black,44064,by Race
+2002,Hispanic (any race),49993,by Race
+2002,"White, Not Hispanic",70829,by Race
+2003,All Races,63967,by Race
+2003,Asian,82250,by Race
+2003,Black,43841,by Race
+2003,Hispanic (any race),48726,by Race
+2003,"White, Not Hispanic",70552,by Race
+2004,All Races,63745,by Race
+2004,Asian,82681,by Race
+2004,Black,43473,by Race
+2004,Hispanic (any race),49276,by Race
+2004,"White, Not Hispanic",70325,by Race
+2005,All Races,64427,by Race
+2005,Asian,84965,by Race
+2005,Black,43049,by Race
+2005,Hispanic (any race),50020,by Race
+2005,"White, Not Hispanic",70627,by Race
+2006,All Races,64930,by Race
+2006,Asian,86533,by Race
+2006,Black,43284,by Race
+2006,Hispanic (any race),50893,by Race
+2006,"White, Not Hispanic",70617,by Race
+2007,All Races,65801,by Race
+2007,Asian,86589,by Race
+2007,Black,44656,by Race
+2007,Hispanic (any race),50666,by Race
+2007,"White, Not Hispanic",71941,by Race
+2008,All Races,63455,by Race
+2008,Asian,82798,by Race
+2008,Black,43325,by Race
+2008,Hispanic (any race),47826,by Race
+2008,"White, Not Hispanic",70049,by Race
+2009,All Races,63011,by Race
+2009,Asian,82875,by Race
+2009,Black,41457,by Race
+2009,Hispanic (any race),48152,by Race
+2009,"White, Not Hispanic",68940,by Race
+2010,All Races,61364,by Race
+2010,Asian,80023,by Race
+2010,Black,40044,by Race
+2010,Hispanic (any race),46863,by Race
+2010,"White, Not Hispanic",67820,by Race
+2011,All Races,60428,by Race
+2011,Asian,78628,by Race
+2011,Black,39074,by Race
+2011,Hispanic (any race),46629,by Race
+2011,"White, Not Hispanic",66897,by Race
+2012,All Races,60313,by Race
+2012,Asian,81143,by Race
+2012,Black,39862,by Race
+2012,Hispanic (any race),46113,by Race
+2012,"White, Not Hispanic",67397,by Race
+2013,All Races,62425,by Race
+2013,Asian,84324,by Race
+2013,Black,41664,by Race
+2013,Hispanic (any race),46234,by Race
+2013,"White, Not Hispanic",70281,by Race
+2014,All Races,61468,by Race
+2014,Asian,85112,by Race
+2014,Black,40843,by Race
+2014,Hispanic (any race),48676,by Race
+2014,"White, Not Hispanic",69027,by Race
+2015,All Races,64631,by Race
+2015,Asian,88247,by Race
+2015,Black,42554,by Race
+2015,Hispanic (any race),51631,by Race
+2015,"White, Not Hispanic",71989,by Race
+2016,All Races,66657,by Race
+2016,Asian,91938,by Race
+2016,Black,45235,by Race
+2016,Hispanic (any race),53827,by Race
+2016,"White, Not Hispanic",73433,by Race
+2017,All Races,67571,by Race
+2017,Asian,89960,by Race
+2017,Black,44197,by Race
+2017,Hispanic (any race),55448,by Race
+2017,"White, Not Hispanic",75367,by Race
+2018,All Races,68168,by Race
+2018,Asian,94079,by Race
+2018,Black,44984,by Race
+2018,Hispanic (any race),55513,by Race
+2018,"White, Not Hispanic",76220,by Race
+2019,All Races,72808,by Race
+2019,Asian,104041,by Race
+2019,Black,48827,by Race
+2019,Hispanic (any race),59467,by Race
+2019,"White, Not Hispanic",80602,by Race
+2020,All Races,71186,by Race
+2020,Asian,99622,by Race
+2020,Black,48936,by Race
+2020,Hispanic (any race),58015,by Race
+2020,"White, Not Hispanic",78912,by Race
+2021,All Races,70784,by Race
+2021,Asian,101418,by Race
+2021,Black,48815,by Race
+2021,Hispanic (any race),57981,by Race
+2021,"White, Not Hispanic",77999,by Race
 2021,United States,70784,by Region
 2020,United States,71186,by Region
 2019,United States,72808,by Region
@@ -770,60 +773,58 @@ Year,Series,Income,View
 1977,West,57093,by Region
 1976,West,56607,by Region
 1975,West,55966,by Region
-2021,Median,70784,by Percentile
-2020,Median,71186,by Percentile
-2019,Median,72808,by Percentile
-2018,Median,68168,by Percentile
-2017,Median,67571,by Percentile
-2017,Median,67832,by Percentile
-2016,Median,66657,by Percentile
-2015,Median,64631,by Percentile
-2014,Median,61468,by Percentile
-2013,Median,62425,by Percentile
-2013,Median,60507,by Percentile
-2012,Median,60313,by Percentile
-2011,Median,60428,by Percentile
-2010,Median,61364,by Percentile
-2009,Median,63011,by Percentile
-2008,Median,63455,by Percentile
-2007,Median,65801,by Percentile
-2006,Median,64930,by Percentile
-2005,Median,64427,by Percentile
-2004,Median,63745,by Percentile
-2003,Median,63967,by Percentile
-2002,Median,64047,by Percentile
-2001,Median,64779,by Percentile
-2000,Median,66248,by Percentile
-1999,Median,66385,by Percentile
-1998,Median,64781,by Percentile
-1997,Median,62484,by Percentile
-1996,Median,61225,by Percentile
-1995,Median,60348,by Percentile
-1994,Median,58515,by Percentile
-1993,Median,57843,by Percentile
-1992,Median,58153,by Percentile
-1991,Median,58607,by Percentile
-1990,Median,60370,by Percentile
-1989,Median,61153,by Percentile
-1988,Median,60115,by Percentile
-1987,Median,59624,by Percentile
-1986,Median,58920,by Percentile
-1985,Median,56871,by Percentile
-1984,Median,55828,by Percentile
-1983,Median,54182,by Percentile
-1982,Median,54564,by Percentile
-1981,Median,54713,by Percentile
-1980,Median,55596,by Percentile
-1979,Median,57462,by Percentile
-1978,Median,57572,by Percentile
-1977,Median,55427,by Percentile
-1976,Median,55078,by Percentile
-1975,Median,54180,by Percentile
-1974,Median,55636,by Percentile
-1973,Median,57456,by Percentile
-1972,Median,56319,by Percentile
-1971,Median,54006,by Percentile
-1970,Median,54536,by Percentile
-1969,Median,54962,by Percentile
-1968,Median,52992,by Percentile
 1967,Median,50803,by Percentile
+1968,Median,52992,by Percentile
+1969,Median,54962,by Percentile
+1970,Median,54536,by Percentile
+1971,Median,54006,by Percentile
+1972,Median,56319,by Percentile
+1973,Median,57456,by Percentile
+1974,Median,55636,by Percentile
+1975,Median,54180,by Percentile
+1976,Median,55078,by Percentile
+1977,Median,55427,by Percentile
+1978,Median,57572,by Percentile
+1979,Median,57462,by Percentile
+1980,Median,55596,by Percentile
+1981,Median,54713,by Percentile
+1982,Median,54564,by Percentile
+1983,Median,54182,by Percentile
+1984,Median,55828,by Percentile
+1985,Median,56871,by Percentile
+1986,Median,58920,by Percentile
+1987,Median,59624,by Percentile
+1988,Median,60115,by Percentile
+1989,Median,61153,by Percentile
+1990,Median,60370,by Percentile
+1991,Median,58607,by Percentile
+1992,Median,58153,by Percentile
+1993,Median,57843,by Percentile
+1994,Median,58515,by Percentile
+1995,Median,60348,by Percentile
+1996,Median,61225,by Percentile
+1997,Median,62484,by Percentile
+1998,Median,64781,by Percentile
+1999,Median,66385,by Percentile
+2000,Median,66248,by Percentile
+2001,Median,64779,by Percentile
+2002,Median,64047,by Percentile
+2003,Median,63967,by Percentile
+2004,Median,63745,by Percentile
+2005,Median,64427,by Percentile
+2006,Median,64930,by Percentile
+2007,Median,65801,by Percentile
+2008,Median,63455,by Percentile
+2009,Median,63011,by Percentile
+2010,Median,61364,by Percentile
+2011,Median,60428,by Percentile
+2012,Median,60313,by Percentile
+2013,Median,62425,by Percentile
+2014,Median,61468,by Percentile
+2015,Median,64631,by Percentile
+2016,Median,66657,by Percentile
+2017,Median,67571,by Percentile
+2018,Median,68168,by Percentile
+2019,Median,72808,by Percentile
+2020,Median,71186,by Percentile
+2021,Median,70784,by Percentile
